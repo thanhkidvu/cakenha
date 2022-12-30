@@ -1,0 +1,144 @@
+
+#bodycolor {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#5B5858;
+}
+
+
+/** apply css for header, h1 **/
+#myblog {
+    display: inline-block;
+   width: 100%;
+   height: 500px;
+   background-image: url("../Images/backgroundheader88.png");
+   background-size: 100% 100%;
+   color: yellow;
+}
+/** apply css for personblog**/
+#blog {
+    text-align: left;
+    margin: 20px;
+    font-family: serif;
+    font-size: 20px;
+}
+/**apply css for h1**/
+#tieude {
+    font-family: 'Dancing Script', cursive;
+    background-color: RGBA( 139, 0, 0, 0.5 );
+    font-size: 100px; 
+    text-align: center;
+    margin-top: 180px;
+    padding: 0 0 0 10px;
+}
+
+
+/**apply css for detail-1,2,3,4 and about 's header, h1 **/
+header #myblog2 {
+    display: inline-block;
+    width:100%;
+    height: 200px;
+    background-image: url("../Images/backgroundheader88.png");
+    background-size: 100% 100%;
+    color: yellow;
+}
+ header #myblog2 p {
+    text-align: left;
+    margin:20px;
+    font-family: serif;
+    position: absolute;
+    font-size: 20px;
+ }
+header #myblog2 h1 {
+    font-family: 'Dancing Script', cursive;
+    background-color:  RGBA( 139, 0, 0, 0.5 );
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 0 0 10px;
+}
+
+
+/** apply css Main's BODY **/
+
+main {
+    padding: 20px 0 20px 0 ;
+    margin-bottom: 20px;
+    width: 90%;
+    background-image: url(../Images/backgroundmainbody.jpg);
+    color: white;
+    background-repeat:repeat-y;
+    background-size: 1500px ;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+section {
+    padding: 10px 0 50px;
+}
+section p {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    margin: 0 auto;
+    
+}
+footer {
+    color: white;
+}
+main section a {
+    color: #B4BA0B;
+}
+footer p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 20px;
+}
+#icon {
+    padding: 50px 0 0 0 ;
+    
+}
+section h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: yellow;
+}
+#ordernow {
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    padding: 0 20px 0 20px;
+}
+
+/**This is about.html */
+#housecake-about {
+    float: left;
+    padding: 2% 2% 50% 8%;
+}
+#main-about p {
+    text-align:justify;
+}
+
+#Slide-Img-Bootstrap {
+    width: 50%;
+}
+
+.background-nav {
+    background-color: #333;
+    color: white;
+}
+.navlink {
+    display: block;
+    padding: 7px 10px 0 10px;
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: white;
+    text-decoration: none;
+}
+
+.img-bootstrap {
+    divposition:absolute;left:50px;right:300px;top:100px;
+}
+/** icon about **/
+#icon img {
+    width: 90px;
+}

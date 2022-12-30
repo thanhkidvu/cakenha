@@ -1,0 +1,113 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-size: 100%;
+    margin: 0;
+}
+.main-contact {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 150%;
+    font-family: 'Dancing Script', cursive;
+    background-color:rgb(240, 240, 240);
+    height: 610px;
+    padding: 0 0 0 100px;
+    line-height: 20px;
+}
+
+div h1 {
+
+    padding: 20px 0 0 0;
+}
+label {
+    font-family: 'Dancing Script', cursive;
+    display: inline-block;
+    width: 150px;
+}
+#name, #mail, #subject {
+    font-size: 80%;
+    width: 50%;
+    height: 30px;
+}
+
+button {
+    margin-left: 20px;
+    font-size: 15px;
+}
+.buttongo {
+    font-family:  'Dancing Script', cursive;
+    color: blue;
+    font-size: 25px;
+    margin-left: 150px;
+}
+
+
+/***This is css for Order now*/
+
+
+select {
+    width: 300px;
+    font-family:  'Dancing Script', cursive;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.txt {
+    width: 40%;
+    height: 30px;
+}
+#datess {
+    width: 300px;
+    font-size: 25px;
+    font-family:  'Dancing Script', cursive;
+}
+#message {
+    font-family:  'Dancing Script', cursive;
+    font-size:20px;
+}
+.yesno {
+    display: inline-block;
+    width: 30px;
+}
+.includes {
+    display: inline-block;
+    width: 80px;
+}
+textarea {
+    width: 40%;
+}
+/**Contact**/
+/** css for error input (contact)*/ 
+.inputNMS {
+   display: block;
+   text-align: right;
+   width: 60%;
+   padding:0 0 0 0;
+   height: 23px;
+}
+#error4 {
+    display: block;
+    text-align: right;
+    width: 30%;
+    padding:0 0 0 0;
+    height: 23px;
+}
+.inputNMS, #error4 {
+    font-size: 70%;
+  }
+
+/**Order**/
+/**css for error input (order)**/
+.error1v5 {
+    display: block;
+    text-align: right;
+    width:43%;
+    padding: 0 0 0 0;
+    height: 15px;
+}
+.error2v3v6 {
+    display: block;
+    text-align: right;
+    width: 56%;
+    padding: 0 0 0 0;
+    height: 15px;
+
+}
